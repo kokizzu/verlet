@@ -1,7 +1,17 @@
 # verlet
 build and animate objects according to verlet physics. pure golang library
 
-Examples depend on [pixel](https://github.com/faiface/pixel) library, see [requirements](https://github.com/faiface/pixel#requirements) to build them:
+## Installing
+
+To start using verlet in your project, run:
+
+```sh
+$ go get -u github.com/polldo/verlet
+```
+
+## Examples
+
+[Examples](https://github.com/polldo/verlet/tree/master/examples) depend on [pixel](https://github.com/faiface/pixel) library, check the [requirements](https://github.com/faiface/pixel#requirements) to build them:
 <table>
 <tr>
 <td align="center">
